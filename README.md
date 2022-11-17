@@ -1,7 +1,7 @@
 ### Hola 👋, Hola, Soy Jose Rafel
 #### Desarrollador, Soporte Técnico en Computación y dispositivos móviles
-![Desarrollador de Software, Soporte Técnico en Computación, dispositivos móviles y Mecatronica](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
+![Desarrollador de Software, Soporte Técnico en Computación, dispositivos móviles y Mecatronica]
+[![Texto-Cromo-Rafa.jpg](https://i.postimg.cc/KvrHFLk5/Texto-Cromo-Rafa.jpg)](https://postimg.cc/VdvRWJFS)
 Trabajo en Soporte Tecnico en el Dia y por la noche Desarrollo soluciones. te preguntaras ¿cunado duermo?. 
 
 Habilidades: ASSEMBLER / JAVA / PHP / JS / HTML / CSS / MYSQL
